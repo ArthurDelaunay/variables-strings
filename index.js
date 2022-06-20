@@ -31,6 +31,13 @@
 // console.log(letters)
 
 // 08 - Template
-const age= 31
-const template= `I'm ${age} years old`
-console.log(template)
+// const age= 31
+// const template= `I'm ${age} years old`
+// console.log(template)
+
+// Bonus
+const sentence = "Bonjour je suis un exercice 'bonus'"
+console.log(sentence)
+
+const word = "Bonjour"
+console.log(word.replaceAll ("o", "a"))
